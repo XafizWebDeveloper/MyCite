@@ -16,3 +16,9 @@ nav {
   display: flex;
   justify-content: center;
 }
+
+.kontakt{
+  box-sizing: border-box;
+  border: solid 1px black;
+  background-color: rgb(12, 13, 13);
+}
